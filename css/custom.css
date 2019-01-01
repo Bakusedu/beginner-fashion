@@ -1,0 +1,67 @@
+/* CUSTOM RULES */
+body {
+  background-color:black;
+  color:#fff;
+  font-family:'Segoe UI';
+  background:linear-gradient(to right,#000,#D90415);
+}
+header {
+  height: 100px;
+  padding: 25px 0px 0px;
+}
+.logo{
+  color:#e21d1d;
+}
+header span.my-account {
+  display: inline-block;
+  padding: 7px 0px;
+  margin-right: 20px;
+}
+
+.navbar {
+  background: #e21d1d;
+  margin-bottom:10px;
+}
+.navbar li a {
+  color: #fff;
+}
+.navbar li a:hover {
+  background: black;
+}
+.icon-bar {
+  background: #fff;
+}
+.margin div img{
+  width:100%;
+  /* border-radius:10%; */
+}
+.container-color{
+  background-color:black;
+}
+section.category h4{
+  padding-bottom:10px;
+  display:inline-block;
+}
+hr{
+  margin-top:3%;
+  margin-bottom:3%;
+  height:4%;
+}
+#navbar .nav  li a{
+  margin-right:5%;
+}
+.special div h4 {
+  color: #e21d1d;
+}
+section{
+  margin-bottom:2%;
+}
+footer{
+  position:relative;
+}
+footer a{
+  margin-right:20%;
+  text-align:center;
+  /* left:50%; */
+  color:#e21d1d;
+}
